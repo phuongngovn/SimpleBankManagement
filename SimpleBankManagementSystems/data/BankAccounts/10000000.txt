@@ -1,0 +1,10 @@
+﻿First Name|Kate
+Last Name|Ngo
+Address|UTS Building 11, Sydney
+Phone|123456789
+Email|11885744@student.uts.edu.au
+AccountNo|10000000
+Balance|1000
+10.12.2019|Deposit|200|800
+12.12.2019|Deposit|400|1200
+15.12.2019|Withdraw|200|1000
